@@ -1,6 +1,5 @@
-Creating a comprehensive Markdown page with Streamlit tutorials and code examples can help you get started with Streamlit effectively. Here's a step-by-step guide along with examples:
-
 # Streamlit Tutorial
+Creating a comprehensive Markdown page with Streamlit tutorials and code examples can help you get started with Streamlit effectively. Here's a step-by-step guide along with examples:
 
 ## Introduction
 Streamlit is an open-source app framework for Machine Learning and Data Science teams. It turns data scripts into shareable web apps in minutes. 
