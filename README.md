@@ -1,6 +1,5 @@
 Creating a comprehensive Markdown page with Streamlit tutorials and code examples can help you get started with Streamlit effectively. Here's a step-by-step guide along with examples:
 
-```markdown
 # Streamlit Tutorial
 
 ## Introduction
